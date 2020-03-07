@@ -1,0 +1,9 @@
+{
+  "name": "unmask",
+  "version": "1.0.0",
+  "description": "Clear number masks.",
+  "main": "index.js",
+  "repository": "https://github.com/phabloraylan/unmask",
+  "author": "Phablo Raylan",
+  "license": "MIT"
+}
