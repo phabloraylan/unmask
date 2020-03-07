@@ -5,13 +5,13 @@ Clear number masks.
 ## Install
 
 ```sh
-npm install unmask
+npm install @phabloraylan/unmask
 ```
 
 or
 
 ```sh
-yarn add unmask
+yarn add @phabloraylan/unmask
 ```
 
 ## Testing
@@ -29,7 +29,7 @@ yarn test
 ## Usage
 
 ```javascript
-const unmask = require('unmask')
+const unmask = require("@phabloraylan/unmask")
 
 unmask("123.456.789.00")
 // ---> 12345678900

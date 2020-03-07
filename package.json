@@ -1,5 +1,5 @@
 {
-  "name": "unmask",
+  "name": "@phabloraylan/unmask",
   "version": "1.0.0",
   "description": "Clear number masks.",
   "main": "index.js",
