@@ -31,6 +31,6 @@ yarn test
 ```javascript
 const unmask = require("@phabloraylan/unmask")
 
-unmask("123.456.789.00")
+unmask("123.456.789-00")
 // ---> 12345678900
 ```
