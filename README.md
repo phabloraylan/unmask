@@ -23,7 +23,7 @@ npm test
 or
 
 ```sh
-npm test
+yarn test
 ```
 
 ## Usage
